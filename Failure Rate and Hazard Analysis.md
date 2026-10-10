@@ -143,5 +143,3 @@ These metrics feed directly into **SLM reliability scoring**, **change‑point d
 
 ---
 - A **visual hazard curve**  
-
-Just tell me what you want next.
